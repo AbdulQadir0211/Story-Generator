@@ -1,0 +1,7 @@
+fastapi[all]
+langchain
+langchain-groq
+uvicorn
+python-dotenv
+sqlalchemy
+psycopg2-binary
